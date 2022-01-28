@@ -32,3 +32,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/eng-patricia-lopes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/eng-patricia-lopes" height="30" width="40" /></a>
 </p>
+   
+  ![Snake animation](https://github.com/PatriciaLoop/PatriciaLoop/blob/output/github-contribution-grid-snake.svg)
